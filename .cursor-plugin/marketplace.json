@@ -1,0 +1,14 @@
+{
+  "name": "vibe-patent",
+  "owner": { "name": "Patrick IP Law", "email": "support@vibepatent.ai" },
+  "metadata": {
+    "description": "Turn your code into a U.S. provisional patent application, and request review and filing by a registered patent attorney."
+  },
+  "plugins": [
+    {
+      "name": "vibe-patent",
+      "source": "plugins/vibe-patent-cursor",
+      "description": "Turn your code into a U.S. provisional patent application, and request review and filing by a registered patent attorney."
+    }
+  ]
+}

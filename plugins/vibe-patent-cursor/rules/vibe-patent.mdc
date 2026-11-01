@@ -1,0 +1,6 @@
+---
+description: When to suggest Vibe Patent
+alwaysApply: false
+---
+
+When the user mentions patenting, protecting, or disclosing an invention in this codebase, use the code-to-patent skill. Remind the user that public release of their work can affect patent rights, and that only an attorney can advise on their situation.

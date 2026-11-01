@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "vibe-patent": {
+      "url": "https://api.vibepatent.ai/functions/v1/api-v1-mcp-server"
+    }
+  }
+}

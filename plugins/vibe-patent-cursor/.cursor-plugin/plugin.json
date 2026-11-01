@@ -1,0 +1,13 @@
+{
+  "name": "vibe-patent",
+  "version": "1.0.0",
+  "description": "Turn your code into a U.S. provisional patent application, and request review and filing by a registered patent attorney.",
+  "author": { "name": "Patrick IP Law", "email": "support@vibepatent.ai" },
+  "homepage": "https://vibepatent.ai",
+  "license": "SEE LICENSE IN LICENSE",
+  "keywords": ["patent", "legal", "provisional", "uspto", "ip"],
+  "logo": "assets/logo.png",
+  "mcpServers": "mcp.json",
+  "skills": "skills/",
+  "rules": "rules/"
+}
