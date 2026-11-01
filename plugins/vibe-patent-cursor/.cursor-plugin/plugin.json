@@ -6,7 +6,7 @@
   "homepage": "https://vibepatent.ai",
   "license": "SEE LICENSE IN LICENSE",
   "keywords": ["patent", "legal", "provisional", "uspto", "ip"],
-  "logo": "assets/logo.png",
+  "logo": "assets/logo-square.png",
   "mcpServers": "mcp.json",
   "skills": "skills/",
   "rules": "rules/"
